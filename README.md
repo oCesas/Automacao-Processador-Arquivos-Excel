@@ -11,11 +11,12 @@ Este projeto é uma ferramenta de automação para processar arquivos Excel cont
 - Consolidação dos dados em um único arquivo Excel
 - Abertura automática do arquivo de saída após o processamento
 
-## Requisitos
+## Bibliotecas usadas
 
-- Python 3.6+
-- pandas
-- openpyxl
+-OS
+-Tkinter
+-Subprocess
+-Pandas
 
 ## Uso
 
