@@ -14,7 +14,6 @@ Este projeto é uma ferramenta de automação para processar arquivos Excel cont
 ## Bibliotecas usadas
 
 -OS
-
 -Tkinter
 -Subprocess
 -Pandas
